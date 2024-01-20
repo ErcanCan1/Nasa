@@ -3,7 +3,7 @@ import Explanation from "./Explanation";
 import Image from "./Image";
 import Copyright from "./Copyright";
 import Date from "./Date";
-import Title from
+import Title from "./Title";
 
 
 
@@ -19,7 +19,7 @@ function Nasa(props) {
 
            <Explanation explanation ={explanation} />
         </div>
-    )
+    )n
 }
 
 export default Nasa;
